@@ -11,8 +11,10 @@
 
 # COMMAND OPTIONS
   - Slash Commands
-  - /searchsong                             
+  - /searchsong
+    -                             
     - search song by title and queues into playlist
+    -
   - /clear                                  
     - clears playlist and resets music bot state
   - /current                                
