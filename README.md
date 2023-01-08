@@ -14,28 +14,43 @@
   - /searchsong
     -                             
     - search song by title and queues into playlist
-  - /clear                                  
+  - /clear
+    -                                  
     - clears playlist and resets music bot state
-  - /current                                
+  - /current
+    -                                
     - sends embed of information about current song
-  - /dc                                     
+  - /dc
+    -                                     
     - disconnects bot from the voice channel
-  - /goto                                   
+  - /goto
+    -                                   
     - skips to/plays song by index in the playlist
-  - /help                                   
+  - /help
+    -                                   
     - sends embed of all command options the music bot has to offer
-  - /loop                                   
+  - /loop
+    -                                   
     - loops current song
-  - /list                                   
+  - /list
+    -                                   
     - send embed of music playlist/songs by index 
-  - /pause                                  
+  - /pause
+    -                                  
     - pauses current song
-  - /previous                               
+  - /previous
+    -                               
     - plays previous song
-  - /queue                                  
+  - /queue
+    -                                 
     - queue a song or a playlist by youtube url to playlist
-  - /resume                                 
+  - /resume
+    -                                 
     - resumes current song
-  - /shutdownbot                            -disconnects bot from voice channel and shuts down program
-  - /skip                                   -skips to next song
+  - /shutdownbot
+    -                            
+    -disconnects bot from voice channel and shuts down program
+  - /skip
+    -                                   
+    -skips to next song
   
